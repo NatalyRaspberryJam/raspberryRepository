@@ -1,0 +1,12 @@
+C:\Users\nvkurkina\Desktop\rectangleApp\rectangleApp\rectangleApp\bin\Debug\rectangleApp.exe.config
+C:\Users\nvkurkina\Desktop\rectangleApp\rectangleApp\rectangleApp\bin\Debug\rectangleApp.exe
+C:\Users\nvkurkina\Desktop\rectangleApp\rectangleApp\rectangleApp\bin\Debug\rectangleApp.pdb
+C:\Users\nvkurkina\Desktop\rectangleApp\rectangleApp\rectangleApp\obj\Debug\triangleApp.csprojResolveAssemblyReference.cache
+C:\Users\nvkurkina\Desktop\rectangleApp\rectangleApp\rectangleApp\obj\Debug\rectangleApp.exe
+C:\Users\nvkurkina\Desktop\rectangleApp\rectangleApp\rectangleApp\obj\Debug\rectangleApp.pdb
+C:\Users\Natalya\Desktop\triangleApp\triangleApp\bin\Debug\rectangleApp.exe.config
+C:\Users\Natalya\Desktop\triangleApp\triangleApp\bin\Debug\rectangleApp.exe
+C:\Users\Natalya\Desktop\triangleApp\triangleApp\bin\Debug\rectangleApp.pdb
+C:\Users\Natalya\Desktop\triangleApp\triangleApp\obj\Debug\triangleApp.csprojResolveAssemblyReference.cache
+C:\Users\Natalya\Desktop\triangleApp\triangleApp\obj\Debug\rectangleApp.exe
+C:\Users\Natalya\Desktop\triangleApp\triangleApp\obj\Debug\rectangleApp.pdb

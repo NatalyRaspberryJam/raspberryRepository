@@ -1,0 +1,17 @@
+C:\Users\nvkurkina\Desktop\rectangleApp\rectangleApp\testProject\obj\Debug\testProject.csprojResolveAssemblyReference.cache
+C:\Users\nvkurkina\Desktop\rectangleApp\rectangleApp\testProject\bin\Debug\testProject.dll
+C:\Users\nvkurkina\Desktop\rectangleApp\rectangleApp\testProject\bin\Debug\testProject.pdb
+C:\Users\nvkurkina\Desktop\rectangleApp\rectangleApp\testProject\bin\Debug\rectangleApp.exe
+C:\Users\nvkurkina\Desktop\rectangleApp\rectangleApp\testProject\bin\Debug\rectangleApp.pdb
+C:\Users\nvkurkina\Desktop\rectangleApp\rectangleApp\testProject\obj\Debug\testProject.dll
+C:\Users\nvkurkina\Desktop\rectangleApp\rectangleApp\testProject\obj\Debug\testProject.pdb
+C:\Users\nvkurkina\Desktop\triangleApp\testProject\obj\Debug\testProject.csprojResolveAssemblyReference.cache
+C:\Users\nvkurkina\Desktop\triangleApp\testProject\obj\Debug\testProject.dll
+C:\Users\nvkurkina\Desktop\triangleApp\testProject\obj\Debug\testProject.pdb
+C:\Users\Natalya\Desktop\triangleApp\testProject\bin\Debug\testProject.dll
+C:\Users\Natalya\Desktop\triangleApp\testProject\bin\Debug\testProject.pdb
+C:\Users\Natalya\Desktop\triangleApp\testProject\bin\Debug\rectangleApp.exe
+C:\Users\Natalya\Desktop\triangleApp\testProject\bin\Debug\rectangleApp.pdb
+C:\Users\Natalya\Desktop\triangleApp\testProject\obj\Debug\testProject.csprojResolveAssemblyReference.cache
+C:\Users\Natalya\Desktop\triangleApp\testProject\obj\Debug\testProject.dll
+C:\Users\Natalya\Desktop\triangleApp\testProject\obj\Debug\testProject.pdb
